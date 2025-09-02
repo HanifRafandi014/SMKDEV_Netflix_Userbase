@@ -16,21 +16,12 @@ Karena .
 ## Goals :
 maneuhejrk
 
-## Method :
-Cross-Industry Standard Process for Data Mining (CRISP-DM)
-<br>
-
-# 📂 STAGE 1: Data Understanding
+# 📂 Stage 1: Exploratory Data Analysis
 ## Data Overview :
 
 ## Data Quality Assesment :
 
 ## Data Exploration :
 
-# 📂 STAGE 2: Data Preparation
+# 📂 Stage 2: Business Recommendation
 
-# 📂 STAGE 3: Modelling
-
-# 📂 STAGE 4: Evaluation
-
-# 📂 STAGE 5: Deployment
